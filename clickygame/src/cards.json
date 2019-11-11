@@ -1,0 +1,62 @@
+[   
+    {
+        "id": 1,
+        "image": "images/allmight.jpg",
+        "name": "All Might"
+    },
+    {
+        "id": 2,
+        "image": "images/asta.jpg",
+        "name": "Asta"
+    },
+    {
+        "id": 3,
+        "image": "images/deku.jpg",
+        "name": "Izuku Midoriya"
+    },
+    {
+        "id": 4,
+        "image": "images/genos.jpg",
+        "name": "Genos"
+    },
+    {
+        "id": 5,
+        "image": "images/goku.jpg",
+        "name": "Goku"
+    },
+    {
+        "id": 6,
+        "image": "images/luck.jpg",
+        "name": "Luck Voltia"
+    },
+    {
+        "id": 7,
+        "image": "images/luffy.jpg",
+        "name": "Monkey D. Luffy"
+    },
+    {
+        "id": 8,
+        "image": "images/saitama.jpg",
+        "name": "Saitama"
+    },
+    {
+        "id": 9,
+        "image": "images/sanji.jpg",
+        "name": "Vinsmoke Sanji"
+    },
+    {
+        "id": 10,
+        "image": "images/todoroki.jpg",
+        "name": "Shoto Todoroki"
+    },
+    {
+        "id": 11,
+        "image": "images/wizardking.jpg",
+        "name": "Julius Novachrono"
+    },
+    {
+        "id": 12,
+        "image": "images/zoro.jpg",
+        "name": "Roronora Zoro"
+    }
+]
