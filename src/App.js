@@ -5,7 +5,7 @@ import Card from "./components/Card";
 import Container from "./components/Container";
 import Row from "./components/Row";
 import Column from "./components/Column";
-import cards from "./cards.json";
+import cards from "./cards.json.js";
 import "./App.css";
 
 class App extends Component {
