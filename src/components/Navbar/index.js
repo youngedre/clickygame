@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Score from "../Score";
+import Message from "../Message"
 import "./style.css";
 
 class Navbar extends Component {
@@ -12,6 +13,8 @@ class Navbar extends Component {
                     <li className="navbar-brand">
                         <a href="/">Hero Clicky Game</a>
                     </li>
+                    <Message
+                        message={this.props.message}/>
                     <Score 
                         score={this.props.score}
                         topScore={this.props.topScore}/>

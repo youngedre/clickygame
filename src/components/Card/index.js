@@ -10,9 +10,11 @@ class Card extends Component {
         return (
             <div className="hero">
                 <img
+                    className="clicked"
                     src={this.props.image}
-                    alt="hero"
+                    alt="character"
                     id={this.props.id}
+                    onClick={this.props.handleCardClick}
                     />
             </div>
         );
